@@ -1,2 +1,2 @@
-# GANS
+#GANs
 Learning GANS
