@@ -1,2 +1,2 @@
-# GANS_Tut
+# GANS
 Learning GANS
